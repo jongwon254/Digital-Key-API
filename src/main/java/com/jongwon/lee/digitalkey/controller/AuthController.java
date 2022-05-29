@@ -1,5 +1,6 @@
 package com.jongwon.lee.digitalkey.controller;
 
+import com.jongwon.lee.digitalkey.entity.Token;
 import com.jongwon.lee.digitalkey.entity.User;
 import com.jongwon.lee.digitalkey.repository.UserRepository;
 import com.jongwon.lee.digitalkey.request.AuthRequest;
@@ -52,7 +53,7 @@ public class AuthController {
     }
 
     @PostMapping(value = "/login")
-    public ResponseEntity<String> login(@RequestBody AuthRequest authRequest) {
+    public ResponseEntity<Token> login(@RequestBody AuthRequest authRequest) {
         Authentication authentication = authenticationManager.authenticate(
                 new UsernamePasswordAuthenticationToken(
                         authRequest.getEmail(),
@@ -60,6 +61,9 @@ public class AuthController {
                 )
         );
 
-        return ResponseEntity.ok(jwtTokenProvider.generateToken(authentication));
+        Token token = new Token();
+        token.setToken(jwtTokenProvider.generateToken(authentication));
+
+        return ResponseEntity.ok(token);
     }
 }
