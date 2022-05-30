@@ -18,4 +18,7 @@ public class User {
 
     @JsonIgnore
     private String password;
+
+    private String firstName;
+    private String lastName;
 }
