@@ -25,7 +25,7 @@ Own REST API to enable a secure digital wallet for storing personal digital keys
 
 {
   "id": 1,
-  "firstName:" "Kie",
+  "firstName": "Kie",
   "lastName": "Scott",
   "email": "kie.scott@gmail.com"
 }
