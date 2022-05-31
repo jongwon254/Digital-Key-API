@@ -1,7 +1,7 @@
 ![key](https://user-images.githubusercontent.com/36485235/171292141-430be0bc-69bc-47b7-bfcf-5d45f0b5f3e2.png)
 
 # Digital Key API 🔑
-Own REST API to enable a secure digital wallet for storing personal digital keys.
+Own REST API to enable a digital wallet with authentication for storing personal digital keys.
 
 ## Technologies
 - Language: Java
