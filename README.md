@@ -64,8 +64,8 @@ Own REST API to enable a secure digital wallet for storing personal digital keys
 ```
 
 ## Screenshots
-<img width="600" alt="postman" src="https://user-images.githubusercontent.com/36485235/171293623-ba7d8f5b-36ef-4818-8493-31c76d2135fe.png">
 <img width="600" alt="postman2" src="https://user-images.githubusercontent.com/36485235/171293629-15126dc1-31f6-430b-ba2d-39863ff1dd5a.png">
+<img width="600" alt="postman" src="https://user-images.githubusercontent.com/36485235/171293623-ba7d8f5b-36ef-4818-8493-31c76d2135fe.png">
 <img width="600" alt="postman3" src="https://user-images.githubusercontent.com/36485235/171293632-34b5d2dd-4e9e-4b2a-a00b-edfd491996ff.png">
 
 
