@@ -11,7 +11,7 @@ Own REST API to enable a secure digital wallet for storing personal digital keys
 
 ## Functionality
 - API has three end points for users to register/login and to retrieve the digital keys from their wallet 
-- Examples of request and response are shown below
+- Examples of requests and responses are shown below
 - API URL: **localhost:8080/**
 
 1. Register (POST): **localhost:8080/auth/register**
