@@ -70,9 +70,6 @@ Own REST API to enable a digital wallet with authentication for storing personal
 <img width="800" alt="postman3" src="https://user-images.githubusercontent.com/36485235/171293632-34b5d2dd-4e9e-4b2a-a00b-edfd491996ff.png">
 
 
-<img width="800" alt="intellij" src="https://user-images.githubusercontent.com/36485235/171293641-a4172c17-fe13-4321-b942-aadd2508d535.png">
-<img width="800" alt="sql" src="https://user-images.githubusercontent.com/36485235/171293645-17ee50ae-9d26-47fd-b8bd-f9accb63bc93.png">
-
 ## More Info
 [Visit App Demo](https://appetize.io/embed/yhwyqe0pxe073nym7fycqae6f8?device=pixel6&osVersion=12.0&scale=75)
 
