@@ -1,13 +1,16 @@
 ![key](https://user-images.githubusercontent.com/36485235/171292141-430be0bc-69bc-47b7-bfcf-5d45f0b5f3e2.png)
 
-# Digital Key API 🔑
+# Digital Key API
 Own REST API to enable a digital wallet with authentication for storing personal digital keys.
 
 ## Technologies
-- Language: Java
-- Built with the Spring Framework, MySQL, JPA, JWT, Apache Tomcat, and Postman
-- Authentication with Spring Security (hashing with HS256 algorithm)
-- Tested with Postman
+- Backend: 
+  - REST API built with Spring Boot and MySQL Database
+  - Authentication with Spring Security (HS256 Hashing) 
+  - Deployed with Docker on Azure Cloud Kubernetes Cluster
+- Frontend: 
+  - Designed with Figma
+  - Built with XML in Android Studio
 
 ## Functionality
 - API has three end points for users to register/login and to retrieve the digital keys from their wallet
