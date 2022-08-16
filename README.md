@@ -13,7 +13,7 @@ Own REST API to enable a digital wallet with authentication for storing personal
   - Built with XML in Android Studio
 
 ## Functionality
-- API has three end points for users to register/login and to retrieve the digital keys from their wallet
+- REST API has three end points for users to register/login and to retrieve the digital keys from their wallet
 - Data is stored in a MySQL database with the hashed password 
 - Examples of requests and responses are shown below
 
@@ -67,13 +67,7 @@ Own REST API to enable a digital wallet with authentication for storing personal
 ```
 
 ## Screenshots
-<img width="800" alt="postman2" src="https://user-images.githubusercontent.com/36485235/171293629-15126dc1-31f6-430b-ba2d-39863ff1dd5a.png">
-<img width="800" alt="postman" src="https://user-images.githubusercontent.com/36485235/171293623-ba7d8f5b-36ef-4818-8493-31c76d2135fe.png">
-<img width="800" alt="postman3" src="https://user-images.githubusercontent.com/36485235/171293632-34b5d2dd-4e9e-4b2a-a00b-edfd491996ff.png">
-
+<img width="800" alt="azure" src="https://user-images.githubusercontent.com/36485235/185004568-17dc6843-60e3-4132-8d96-f7dd4c0089eb.png">
 
 ## More Info
-[Visit App Demo](https://appetize.io/embed/yhwyqe0pxe073nym7fycqae6f8?device=pixel6&osVersion=12.0&scale=75)
-
-
 [Visit My Website](https://jongwonlee.dev/digital-key-app)
