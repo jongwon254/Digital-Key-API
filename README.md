@@ -15,7 +15,7 @@ Own REST API to enable a digital wallet with authentication for storing personal
 - Examples of requests and responses are shown below
 - API URL: **localhost:8080/**
 
-1. Register (POST): **localhost:8080/auth/register**
+1. Register (POST): **base_url/auth/register**
 ```JSON
 {
   "email": "kie.scott@gmail.com",
@@ -32,7 +32,7 @@ Own REST API to enable a digital wallet with authentication for storing personal
 }
 ```
 
-2. Login (POST): **localhost:8080/auth/login**
+2. Login (POST): **base_url/auth/login**
 ```JSON
 {
   "email": "kie.scott@gmail.com",
@@ -44,7 +44,7 @@ Own REST API to enable a digital wallet with authentication for storing personal
 }
 ```
 
-3. Keys (GET): **localhost:8080/key** (with the authentication bearer token)
+3. Keys (GET): **base_url/key** (with the authentication bearer token)
 ```JSON
 [
   {
