@@ -13,7 +13,6 @@ Own REST API to enable a digital wallet with authentication for storing personal
 - API has three end points for users to register/login and to retrieve the digital keys from their wallet
 - Data is stored in a MySQL database with the hashed password 
 - Examples of requests and responses are shown below
-- API URL: **localhost:8080/**
 
 1. Register (POST): **base_url/auth/register**
 ```JSON
