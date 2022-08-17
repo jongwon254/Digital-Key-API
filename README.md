@@ -1,4 +1,4 @@
-![key](https://user-images.githubusercontent.com/36485235/171292141-430be0bc-69bc-47b7-bfcf-5d45f0b5f3e2.png)
+![key](https://user-images.githubusercontent.com/36485235/185005357-4b29f5bf-870b-4fea-b787-3ff416ff2e9f.png)
 
 # Digital Key API
 Own REST API to enable a [Digital Wallet App](https://github.com/jongwon254/DigitalKeyWallet-App) with authentication for storing personal digital keys.
@@ -70,4 +70,4 @@ Own REST API to enable a [Digital Wallet App](https://github.com/jongwon254/Digi
 <img width="800" alt="azure" src="https://user-images.githubusercontent.com/36485235/185004568-17dc6843-60e3-4132-8d96-f7dd4c0089eb.png">
 
 ## More Info
-[Visit My Website](https://jongwonlee.dev/digital-key-app)
+[Visit Website](https://jongwonlee.dev/digital-key-app)
