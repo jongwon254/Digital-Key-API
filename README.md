@@ -4,6 +4,7 @@
 Own REST API to enable a [Digital Wallet App](https://github.com/jongwon254/DigitalKeyWallet-App) with authentication for storing personal digital keys.
 
 ## Technologies
+- Language: Java
 - Backend: 
   - REST API built with Spring Boot and MySQL Database
   - Authentication with Spring Security (HS256 Hashing) 
