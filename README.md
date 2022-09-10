@@ -7,7 +7,7 @@ Own REST API to enable a [Digital Wallet App](https://github.com/jongwon254/Digi
 - Language: Java
 - Backend: 
   - REST API built with Spring Boot and MySQL Database
-  - Authentication with Spring Security (HS256 Hashing) 
+  - Authentication with Spring Security and JWT (Password HS256 Hashing) 
   - Deployed with Docker on Azure Cloud Kubernetes Cluster
 - Frontend: 
   - Designed with Figma
